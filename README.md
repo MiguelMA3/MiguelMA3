@@ -16,6 +16,7 @@
   <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Miguel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Miguel-Ogun" height="120" width="100" src="https://cdn.discordapp.com/attachments/967061926083448832/967062437234892860/tumblr_c1b5ca647a600f975de3bc9f735e1734_6a6c5874_400.gif">
 </div>
   
   ##
@@ -25,6 +26,6 @@
   <a href="https://instagram.com/miguel.ma_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:miguelitomatzk.avelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/cjk9ne90r9bngj2qttsatc92l?si=5258bb71e53841cc"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  
 </div>
-
+  
+![Snake animation]https://github.com/MiguelMA3/

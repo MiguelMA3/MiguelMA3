@@ -16,7 +16,7 @@
   <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Miguel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Miguel-Ogun" height="560" width="560" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif">
+  <img align="right" alt="Miguel-Ogun" height="280" width="280" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif">
 </div>
   
   ##

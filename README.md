@@ -1,6 +1,7 @@
 ### Hello there!
 
-- 🐱‍💻 Atualmente planejando o Finance
+- 📖 Estudando C#
+- 🐱‍💻 Planejando o Finance
 - 🌘 Evoluindo dia e noite
 - 🐱‍👤 Aberto a oportunidades
 

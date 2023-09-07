@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 📖 Estudando Android
+- 📖 Estudando Android e C#
 - 🐱‍💻 Planejando o Finance
 - 🌘 Evoluindo dia e noite
 - 🐱‍👤 Aberto a oportunidades

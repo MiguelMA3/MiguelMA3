@@ -28,5 +28,5 @@
   <a href = "mailto:miguelitomatzk.avelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/cjk9ne90r9bngj2qttsatc92l?si=5258bb71e53841cc"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
-  
-# ![Snake animation](https://github.com/MiguelMA3/MiguelMA3/blob/output/github-contribution-grid-snake)
+
+Corrigir e implementar snake...

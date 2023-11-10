@@ -1,8 +1,7 @@
 ### Hello there!
 
-- 📖 Estudando Android e C#
+- 📖 Estudando diariamente
 - 🐱‍💻 Planejando o Finance
-- 🌘 Evoluindo dia e noite
 - 🐱‍👤 Aberto a oportunidades
 
 <div>

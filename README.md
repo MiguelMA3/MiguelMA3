@@ -3,13 +3,31 @@
 - 📖 Estudando diariamente
 - 🐱‍💻 Planejando o Finance
 - 🐱‍👤 Aberto a oportunidades
-
+  
 <div>
-  <a href="https://github.com/MiguelMA3">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true&theme=codeSTACKr">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=codeSTACKr">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true&theme=codeSTACKr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true&theme=aura_dark"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=codeSTACKr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=aura_dark"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut>  
+  </picture>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miguel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

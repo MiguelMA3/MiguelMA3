@@ -25,9 +25,10 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=aura_dark"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut>  
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut" />  
   </picture>
 </div>
+      
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miguel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

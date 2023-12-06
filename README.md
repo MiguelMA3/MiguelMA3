@@ -11,7 +11,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true&theme=aura_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true&theme=discord_old_blurple"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MiguelMA3&show_icons=true" />
@@ -22,7 +22,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=aura_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut&theme=discord_old_blurple"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut" />  

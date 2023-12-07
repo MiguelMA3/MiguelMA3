@@ -1,8 +1,8 @@
 ### Hello there!
 
-- 📖 Estudando diariamente
-- 🐱‍💻 Planejando o Finance
-- 🐱‍👤 Aberto a oportunidades
+- 📖 Studying Everyday
+- 🐱‍💻 Planning my project
+- 🐱‍👤 Open to Work
   
 <div>
   <picture>
@@ -31,11 +31,11 @@
       
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Miguel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Miguel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Miguel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Miguel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="right" alt="Miguel-Ogun" height="140" width="140" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif">
 </div>
   

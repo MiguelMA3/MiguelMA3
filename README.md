@@ -7,9 +7,20 @@
 ### Hello there!
 
 - 📖 Studying Everyday
-- 🐱‍💻 Planning my project
 - 🐱‍👤 Open to Work
-  
+
+I'm a Developer and Intern at the Ports of Paraná, as an intern I am constantly studying new technologies, frameworks and solutions. As I improve my knowledge, I contribute some internal solutions and gadgets. I'm preparing myself for big techs and Startups, studying everyday and struggling hard to improve my tech skills.
+I'm open to work as an Intern and New Grad Positions, also open to try any role I could learn something new.
+
+##
+# Social Medias and Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/miguel-maletzke-de-avelar-089b75216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/miguel.ma_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href= "mailto:miguelitomatzk.avelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://open.spotify.com/user/cjk9ne90r9bngj2qttsatc92l?si=5258bb71e53841cc"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
+##
 <div>
   <picture>
     <source
@@ -45,11 +56,4 @@
   <img align="right" alt="Miguel-Ogun" height="140" width="140" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif">
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/miguel-maletzke-de-avelar-089b75216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/miguel.ma_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:miguelitomatzk.avelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://open.spotify.com/user/cjk9ne90r9bngj2qttsatc92l?si=5258bb71e53841cc"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
+  

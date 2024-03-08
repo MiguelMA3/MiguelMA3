@@ -4,7 +4,7 @@
 - 🐱‍👤 Open to Work
 
 I'm a Developer and Intern at the Ports of Paraná, as an intern I am constantly studying new technologies, frameworks and solutions. As I improve my knowledge, I contribute some internal solutions and gadgets. I'm preparing myself for big techs and Startups, studying everyday and struggling hard to improve my tech skills.
-I'm open to work as an Intern and New Grad Positions, also open to try any role I could learn something new.
+I'm open to work as a Junior or New Grad Positions, also open to try any role I could learn something new.
 
 ### Social Medias and Contact 
 

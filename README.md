@@ -1,5 +1,6 @@
 ## Hello there!
 
+- Currently using Golang
 - 📖 Studying Everyday
 - 🐱‍👤 Open to Work
 

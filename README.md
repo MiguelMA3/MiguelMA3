@@ -17,7 +17,7 @@ I'm open to work as a Junior or New Grad Positions, also open to try any role I 
 </div>
 
 
-<picture>
+<picture display="flex" flex-wrap="wrap">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">

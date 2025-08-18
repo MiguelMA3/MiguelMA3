@@ -49,7 +49,7 @@ I'm open to work as a Junior or New Grad Positions, also open to try any role I 
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMA3&layout=donut" />  
   </picture>
   <picture>
-    <img align="right" alt="Miguel-Ogun" width="140" height="140"  display="flex" flex-wrap="wrap" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif?ex=68a47d8e&is=68a32c0e&hm=0d94570c9341aca4a06cfd710d723d8506230088090a4b58840ffd9295ba2392&">
+    <img align="right" alt="Miguel-Ogun" width="140" height="auto" src="https://cdn.discordapp.com/attachments/887436179081945098/1115816189659205652/GitHub_icon.gif?ex=68a47d8e&is=68a32c0e&hm=0d94570c9341aca4a06cfd710d723d8506230088090a4b58840ffd9295ba2392&">
   </picture>
 </div>
       

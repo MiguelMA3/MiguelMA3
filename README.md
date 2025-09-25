@@ -11,7 +11,7 @@ I'm open to work as a Junior or New Grad Positions, also open to try any role I 
 
 <div> 
   <a href="https://www.linkedin.com/in/miguel-maletzke-de-avelar-089b75216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/miguel.ma_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ma.miguel_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:miguelitomatzk.avelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://open.spotify.com/user/cjk9ne90r9bngj2qttsatc92l?si=5258bb71e53841cc"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>

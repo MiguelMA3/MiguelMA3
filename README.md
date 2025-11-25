@@ -82,6 +82,6 @@ _Just having fun building things that I think would be cool._ <br/>
 ##
 
 <i> Do or not do. There is no Try.</i>
-<img width="220" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head" alt="pc_head">
+<img width="220" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head.gif" alt="pc_head">
 
 ##

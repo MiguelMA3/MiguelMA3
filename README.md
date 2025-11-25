@@ -64,7 +64,7 @@ _Just having fun building things that I think would be cool._ <br/>
       <br />
     </td>
     <td width="40%">
-      <img width="100%" src="https://github.com/MiguelMA3/assets/vagabond_stand.jpg" alt="vagabond_stand">
+      <img width="100%" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>

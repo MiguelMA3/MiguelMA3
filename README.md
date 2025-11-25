@@ -1,13 +1,12 @@
-<div>
-  <width="80%"><br>
-    <img align="left" alt="MiguelMA3" width="70" height="auto" src="">
-    <!--Colocar pixel art-->
-    <br><br>
+<div style="width: 80%; height: auto;">
+  <br>
+  <img align="left" style="width: 70px; height: auto;" src="LINK_PARA_O_AVATAR" alt="MiguelMA3">
+  <br><br>
 </div>
 
-<table width="100%">
+<table style="width: 100%">
 
-<div width="30%">
+<div style="width: 30%">
 <h3>Hello there!</h3>
 
 >_Backend developer with experience in Go (Golang) and Python._ <br/>
@@ -21,8 +20,8 @@ _Just having fun building things that I think would be cool._ <br/>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img width="230" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg" alt="ocean_banner">
+    <td style="width: 50%" align="center">
+      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">
@@ -46,24 +45,24 @@ _Just having fun building things that I think would be cool._ <br/>
       <div>
         <h2>Stack</h2>
         <h3>FrontEnd</h3>
-        <img align="center" alt="MiguelMA3-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-        <img align="center" alt="MiguelMA3-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-        <img align="center" alt="MiguelMA3-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-        <img align="center" alt="MiguelMA3-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+        <img align="center" alt="MiguelMA3-HTML" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+        <img align="center" alt="MiguelMA3-CSS" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+        <img align="center" alt="MiguelMA3-JavaScript" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+        <img align="center" alt="MiguelMA3-React" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
         <h3>Backend</h3>
-        <img align="center" alt="MiguelMA3-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-        <img align="center" alt="MiguelMA3-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-        <img align="center" alt="MiguelMA3-RubyOnRails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"/>      
+        <img align="center" alt="MiguelMA3-Python" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+        <img align="center" alt="MiguelMA3-GO" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+        <img align="center" alt="MiguelMA3-RubyOnRails" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"/>      
         <h3>DevOps</h3>
-        <img align="center" alt="MiguelMA3-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
-        <img align="center" alt="MiguelMA3-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+        <img align="center" alt="MiguelMA3-Git" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
+        <img align="center" alt="MiguelMA3-Docker" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
         <h3>Database</h3>
-        <img align="center" alt="MiguelMA3-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>   
+        <img align="center" alt="MiguelMA3-PostgreSQL" style="width: 40px; height: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>   
       </div>
       <br />
     </td>
-    <td width="40%">
-      <img width="100%" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
+    <td style="width: 40%">
+      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>
@@ -81,6 +80,6 @@ _Just having fun building things that I think would be cool._ <br/>
 ##
 
 <i> Do or not do. There is no Try.</i>
-<img width="220" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head.gif" alt="pc_head">
+<img style="width: 220px; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head.gif" alt="pc_head">
 
 ##

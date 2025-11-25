@@ -1,6 +1,6 @@
 <div style="width: 80%; height: auto;">
   <br>
-  <img align="left" style="width: 70px; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/avatar_icon.png" alt="MiguelMA3">
+  <img align="left" style="width: 128px; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/avatar_icon.png" alt="MiguelMA3">
   <br><br>
 </div>
 
@@ -21,7 +21,7 @@ _Just having fun building things that I think would be cool._ <br/>
 <table>
   <tr style="width: 100%;">
     <td style="width: 50%" align="center">
-      <img style="width: 230px; height: 110px; object-fit: contain;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg">
+      <img style="width: 100%; height: 110px; object-fit: fill;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">
@@ -62,7 +62,7 @@ _Just having fun building things that I think would be cool._ <br/>
       <br />
     </td>
     <td style="width: 40%">
-      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
+      <img style="width: 100%; height: auto; object-fit: cover" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>

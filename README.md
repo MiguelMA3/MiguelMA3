@@ -1,8 +1,8 @@
 <div style="width: 80%; height: auto;">
   <br>
   <img align="left" style="width: 128px; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/avatar_icon.png" alt="MiguelMA3">
-  <br><br>
 </div>
+<br><br>
 
 <table style="width: 100%">
 

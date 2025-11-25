@@ -22,8 +22,7 @@ _Just having fun building things that I think would be cool._ <br/>
 <table>
   <tr>
     <td width="50%" align="center">
-      <img width="230" src="">
-      <!--Colocar pixelart-->
+      <img width="230" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg" alt="ocean_banner">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">

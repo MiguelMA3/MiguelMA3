@@ -62,7 +62,7 @@ _Just having fun building things that I think would be cool._ <br/>
       <br />
     </td>
     <td style="width: 40%">
-      <img style="width: 100%; height: auto; object-fit: cover" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
+      <img style="width: 100%; height: 100%; object-fit: cover" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>
@@ -80,6 +80,7 @@ _Just having fun building things that I think would be cool._ <br/>
 ##
 
 <i> Do or not do. There is no Try.</i>
+<br>
 <img style="width: 220px; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head.gif" alt="pc_head">
 
 ##

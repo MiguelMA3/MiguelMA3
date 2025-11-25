@@ -21,7 +21,7 @@ _Just having fun building things that I think would be cool._ <br/>
 <table>
   <tr>
     <td style="width: 50%" align="center">
-      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/ocean_banner.jpg">
+      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/54146b674224835849728cb057fcaf70c86aea25/assets/ocean_banner.jpg">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelMA3/MiguelMA3/output/github-contribution-grid-snake.svg">
@@ -62,7 +62,7 @@ _Just having fun building things that I think would be cool._ <br/>
       <br />
     </td>
     <td style="width: 40%">
-      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
+      <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/cc9337da30fdc11b6b13b76a36f85db4bd5d7b20/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>
@@ -78,8 +78,8 @@ _Just having fun building things that I think would be cool._ <br/>
 </div>
 
 ##
-<div style="width: 240px">
-  <i> Do or not do. There is no Try.</i>
-  <img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/pc_head.gif" alt="pc_head">
-</div>
+
+<i> Do or not do. There is no Try.</i>
+<img style="width: 100%; height: auto;" src="https://github.com/MiguelMA3/MiguelMA3/blob/cc9337da30fdc11b6b13b76a36f85db4bd5d7b20/assets/pc_head.gif" alt="pc_head">
+
 ##

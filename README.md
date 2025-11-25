@@ -62,7 +62,7 @@ _Just having fun building things that I think would be cool._ <br/>
       <br />
     </td>
     <td style="width: 40%">
-      <img style="width: 100%; height: 100%; object-fit: cover" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
+      <img style="width: auto; height: 100%; object-fit: cover" src="https://github.com/MiguelMA3/MiguelMA3/blob/main/assets/vagabond_stand.jpg" alt="vagabond_stand">
     </td>
   </tr>  
 </table>
